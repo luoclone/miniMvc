@@ -1,0 +1,13 @@
+{
+    "name": "clone/test",
+    "description": "a test demo",
+    "type": "min",
+    "license": "lcl",
+    "authors": [
+        {
+            "name": "luoclone",
+            "email": "luoclone@foxmail.com"
+        }
+    ],
+    "require": {}
+}
