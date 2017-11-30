@@ -14,7 +14,7 @@
 				$class = 'web\controller\Index';
 				$action = 'index';
 			}
-			(new $class)->$action();
+			echo (new $class)->$action();
 		}
 	}
 ?>
