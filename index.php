@@ -1,4 +1,5 @@
 <?php
+	require 'vendor/autoload.php';
 
-	Bootstrap::run();
+	core\Bootstrap::run();
 ?>

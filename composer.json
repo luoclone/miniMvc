@@ -9,5 +9,14 @@
             "email": "luoclone@foxmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload":{
+	"files":[
+		"core/functions.php"
+	],
+	"psr-4":{
+	   "core\\":"core/",
+	   "web\\":"web/"
+	}
+    }
 }
