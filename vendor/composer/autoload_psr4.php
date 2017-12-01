@@ -8,4 +8,5 @@ $baseDir = dirname($vendorDir);
 return array(
     'web\\' => array($baseDir . '/web'),
     'core\\' => array($baseDir . '/core'),
+    'Gregwar\\Captcha\\' => array($vendorDir . '/gregwar/captcha'),
 );
